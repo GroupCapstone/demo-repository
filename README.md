@@ -1,8 +1,3 @@
-![Auto Assign](https://github.com/GroupCapstone/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+# demo-repository
 
-![Proof HTML](https://github.com/GroupCapstone/demo-repository/actions/workflows/proof-html.yml/badge.svg)
-
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
-
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+demo-repository is GroupCapstone's demonstration repository. It shows basic GitHub features — a simple web page and example Actions workflows — with as little extra content as possible.
